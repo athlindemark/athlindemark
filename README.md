@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athlindemark
-- 👀 I’m interested in Sailing and Programming most of the time and Snowboardign during the winter
+- 👀 I’m interested in Sailing and Programming most of the time and Snowboarding during the winter
 - 🌱 I’m currently studying Data Science at University of Stavanger
 - 📚 I'm currently learning Python and Basic programming
 - 📫 How to reach me: athlindemark@gmail.com
